@@ -8,4 +8,5 @@ If there are any omissions, please point them out.
 
 如有遗漏，敬请指出！
 
+[![DOI](https://zenodo.org/badge/935261392.svg)](https://doi.org/10.5281/zenodo.14891117)
 
