@@ -3,7 +3,7 @@ Hyperspectral Datasets provided for hyperspectral and multispectral images fusio
 
 If there are any omissions, please point them out.
 
-On the right side, in the release!
+On the right side, in the Releases!
 
 ****
 为高光谱多光谱融合任务准备的高光谱数据集
